@@ -1,6 +1,6 @@
 # ZX81 Rev C – KiCad 9 Conversion
 
-This repository contains a KiCad 9 conversion of the **Bluescreen2000 ZX81 Rev C** schematic and PCB. Originally designed in Eagle, this version has been fully migrated to KiCad for improved accessibility, maintainability, and future-proofing.
+This repository contains a KiCad 9 conversion of the **Bluescreen2001 ZX81 Rev C** schematic and PCB. Originally designed in Eagle, this version has been fully migrated to KiCad for improved accessibility, maintainability, and future-proofing.
 
 ## 🔧 Project Highlights
 
