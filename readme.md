@@ -11,14 +11,15 @@ This repository contains a KiCad 9 conversion of the **Bluescreen2001 ZX81 Rev C
 
 ## 📁 File Overview
 
-- `zx81-c.kicad_sch` – KiCad 9 schematic
-- `zx81-c.kicad_pcb` – KiCad 9 PCB layout
-- `zx81-c.kicad_pro` – KiCad project file
-- `zx81-c.kicad_prl` – Project local settings
-- `zx81-c-eagle-import.kicad_sym` – Symbol library from Eagle import
-- `sym-lib-table` – Symbol library table
-- `fp-info-cache` – Footprint cache
-- `bom/` – iBOM files for interactive part placement and sourcing
+- `zx81c/zx81.kicad_sch` – KiCad 9 schematic
+- `zx81c/zx81.kicad_pcb` – KiCad 9 PCB layout
+- `zx81c/zx81.kicad_pro` – KiCad project file
+- `zx81.kicad_prl` – Project local settings
+- `zx81c/zx81-eagle-import.kicad_sym` – Symbol library from Eagle import
+- `zx81c/sym-lib-table` – Symbol library table
+- `zx81c/fp-info-cache` – Footprint cache
+- `zx81c/bom/` – iBOM files for interactive part placement and sourcing
+- `zx81c/pdf/` – PDF file for the schematic
 
 ## 📦 iBOM Integration
 
