@@ -38,7 +38,7 @@ For more on iBOM, visit the [iBOM GitHub page](https://github.com/openscopeproje
 
 ## 🙌 Credits
 
-- Original design by [bluescreen2000](https://github.com/bluescreen2000)
+- Original design by [bluescreen2001](https://github.com/bluescreen2001)
 - KiCad 9 conversion and iBOM integration by [jgratton72](https://github.com/jgratton72)
 
 ---
